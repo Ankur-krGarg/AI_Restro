@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langgraph
+langchain-core
+langchain-groq
+langchain-google-genai
+langchain-community
+faiss-cpu
+PyPDF2
+pandas
+requests
+gspread
+google-auth
+python-dotenv
+openpyxl
